@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test">
+        <item>국어단어퀴즈</item>
+        <item>수학사칙연산</item>
+        <item>영어단어퀴즈</item>
+    </string-array>
+</resources>
